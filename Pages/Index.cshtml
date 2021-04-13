@@ -1,0 +1,54 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    var a = ViewData["KamRecoProduct"];
+}
+<h2>@a</h2>
+<div class="text-center">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 mb-2">
+                <h1 class="display-4">App Kameleoon</h1>
+            </div>
+            <div class="col-4">
+                <img src="~/img/homepage-header-min.png" alt="Logo Kameleoon">
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-4 m-2">
+                <a class="btn btn-primary" asp-controller="Product" asp-action="Index">Voir les
+                    produits</a>
+            </div>
+        </div>
+        @* <div class="row">
+            @{
+            Func<dynamic, object> productTemplate =
+            @<div class="col">
+            <div class="card" style="width: 18rem;">
+            <div class="card-body">
+            <h5 class="card-title">@item.Name</h5>
+            <p class="card-text">@item.Price €</p>
+            <a href=@item.Link class="btn btn-primary">Go somewhere</a>
+            </div>
+            </div>
+            </div>
+            ;
+
+            var products = new List<Kproduct>
+
+            {
+            new Kproduct{ Name = "PS5", Price = 499.99, Link = "/HelloWorld" } ,
+            new Kproduct { Name = "CD", Price = 19.99, Link = "/HelloWorld/Welcome" },
+            new Kproduct { Name = "TV", Price = 400.00, Link = "/HelloWorld" }
+            };
+
+
+            }
+            @foreach (var product in products)
+            {
+            @productTemplate(product)
+            }
+            </div> *@
+    </div>
+</div>

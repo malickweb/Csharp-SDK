@@ -1,0 +1,37 @@
+{
+    "product1": {
+        "IdCat": 1,
+        "name": "Manette",
+        "price": "499",
+        "infos": "Console",
+        "quantity": 1 
+    },
+    "product2" :{
+        "IdCat": 2,
+        "name": "PC",
+        "price": "999",
+        "infos": "Ordinateur",
+        "quantity": 15 
+    },
+    "product3" :{
+        "IdCat": 3,
+        "name": "TV",
+        "price": "599",
+        "infos": "Télévision",
+        "quantity": 10 
+    },
+    "product4" :{
+        "IdCat": 4,
+        "name": "Jeu",
+        "price": "49",
+        "infos": "Jeu video",
+        "quantity": 100
+    },
+    "product5" :{
+        "IdCat": 5,
+        "name": "PS5",
+        "price": "499",
+        "infos": "Console",
+        "quantity": 1 
+    }
+}

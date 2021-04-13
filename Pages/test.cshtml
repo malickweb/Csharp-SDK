@@ -1,0 +1,80 @@
+﻿@page
+@model TestModel
+@{
+    ViewData["Title"] = "Test page";
+}
+@{
+    void RenderName(string name)
+    {
+        <p>Name: <strong>@name</strong></p>
+    }
+
+    RenderName("Mahatma Gandhi");
+    RenderName("Martin Luther King, Jr.");
+}
+@{
+    string nameKam = "Malick";
+    <h1>@nameKam</h1>
+}
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <h3>TEST</h3>
+</div>
+@{
+    Func<dynamic, object> carTemplate =
+    @<p>Modele de voiture <strong>@item.Name</strong>.</p>
+    ;
+
+    var cars = new List<Car>
+
+{
+new Car { Name = "BMW" },
+new Car { Name = "AUDI" },
+new Car { Name = "MERCEDES" }
+};
+
+
+}
+@foreach (var car in cars)
+{
+    Console.WriteLine("car : " + car.Name);
+    @carTemplate(car)
+}
+
+
+
+@* @section Middle{ *@
+    <div class="row">
+    @{
+        Func<dynamic, object> productTemplate = 
+            @<div class="col col-lg-4">
+                <div class="card text-center mx-auto">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Name</h5>
+                        <p class="card-text">@item.Info</p>
+                        <p class="card-text">@item.Price €</p>
+                        @if(@item.Quantity > 10) {
+                            <p class="card-text">Product Quantity :  <strong>@item.Quantity</strong>.</p>
+                            <a class="nav-link text-dark" asp-controller="Product" asp-action="Index">Product</a>
+                        } else {
+                            <p class="card-text text-danger bg-dark">Product Quantity </p>
+                        }
+                    </div>
+                </div>
+            </div>;
+        List<ProductTest> ProductsList = new List<ProductTest>();
+        ProductsList.Add(new ProductTest("PS5", 499, "Console PS5", 2));
+        ProductsList.Add(new ProductTest("JEU ", 70, "Une couille", 50));
+        ProductsList.Add(new ProductTest("Manette", 60, "Mannette PS5", 20));
+        ProductsList.Add(new ProductTest("TV", 500, "Ecran de télé", 69));
+        ProductsList.Add(new ProductTest("PS5", 499, "Console PS5", 2));
+        ProductsList.Add(new ProductTest("JEU ", 70, "Une couille", 50));
+        ProductsList.Add(new ProductTest("Manette", 60, "Mannette PS5", 20));
+        ProductsList.Add(new ProductTest("TV", 500, "Ecran de télé", 69));
+        @foreach (var product in ProductsList)
+    {
+        @productTemplate(product)
+    }
+    }
+    </div>
+@* } *@

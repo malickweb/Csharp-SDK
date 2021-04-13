@@ -1,0 +1,38 @@
+@* @model myWebApp.Models.Product *@
+@model myWebApp.Areas.Products.Models.AreaProduct
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = @Model.Name;
+    var K_produit = Model.Quantity == 1 ? "produit" : "produits";
+}
+<div class="row">
+    <div class="col text-center mb-5">
+        <h1>Shop Online Kam</h1>
+    </div>
+</div>
+<div class="row justify-content-center">
+    <div class="col col-lg-4">
+        <div class="card text-center mx-auto">
+            <div class="card-body">
+                <img src="https://picsum.photos/200/200?random=1" alt="@Model.Name" />
+                <h5 class="card-title">@Model.Name</h5>
+                <p class="card-text">Descriptif du produit : @Model.Info</p>
+                <p class="card-text">Produit n° @Model.Id</p>
+                <p class="card-text">Prix : @Model.Price €</p>
+                @if (@Model.Quantity != 0)
+                {
+                    @if(@Model.Quantity < 10) {
+                        <p class="card-text">Il ne reste que <strong>@Model.Quantity</strong> @K_produit.</p>
+                    } else {
+                        <p class="card-text">Quantité : <strong>@Model.Quantity</strong> @K_produit.</p>
+                    }
+                }
+                else
+                {
+                    <p class="card-text text-danger bg-dark">Rupture de stock temporaire.</p>
+                }
+            </div>
+        </div>
+    </div>
+
+</div>
