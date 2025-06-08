@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\UwAmp\\www\\CsharpKam2\\myWebApp\\myWebApp.csproj",
+  "FilePath": "c:\\UwAmp\\www\\CsharpKam - Copie\\myWebApp\\myWebApp.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15603,67 +15603,77 @@
   "RootNamespace": "myWebApp",
   "Documents": [
     {
-      "FilePath": "c:\\UwAmp\\www\\CsharpKam2\\myWebApp\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\UwAmp\\www\\CsharpKam2\\myWebApp\\Pages\\test.cshtml",
-      "TargetPath": "Pages\\test.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\UwAmp\\www\\CsharpKam2\\myWebApp\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\UwAmp\\www\\CsharpKam2\\myWebApp\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\UwAmp\\www\\CsharpKam2\\myWebApp\\Pages\\Error.cshtml",
+      "FilePath": "c:\\UwAmp\\www\\CsharpKam - Copie\\myWebApp\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\UwAmp\\www\\CsharpKam2\\myWebApp\\Areas\\Products\\Views\\Products\\Index.cshtml",
-      "TargetPath": "Areas\\Products\\Views\\Products\\Index.cshtml",
+      "FilePath": "c:\\UwAmp\\www\\CsharpKam - Copie\\myWebApp\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\UwAmp\\www\\CsharpKam2\\myWebApp\\Areas\\Products\\Views\\Products\\Item.cshtml",
-      "TargetPath": "Areas\\Products\\Views\\Products\\Item.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\UwAmp\\www\\CsharpKam2\\myWebApp\\Areas\\_ViewImports.cshtml",
-      "TargetPath": "Areas\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\UwAmp\\www\\CsharpKam2\\myWebApp\\Areas\\Formulaires\\Views\\Formulaires\\Index.cshtml",
-      "TargetPath": "Areas\\Formulaires\\Views\\Formulaires\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\UwAmp\\www\\CsharpKam2\\myWebApp\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\UwAmp\\www\\CsharpKam2\\myWebApp\\Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\UwAmp\\www\\CsharpKam - Copie\\myWebApp\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\UwAmp\\www\\CsharpKam2\\myWebApp\\Areas\\Products\\Views\\Products\\Privacy.cshtml",
-      "TargetPath": "Areas\\Products\\Views\\Products\\Privacy.cshtml",
+      "FilePath": "c:\\UwAmp\\www\\CsharpKam - Copie\\myWebApp\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\UwAmp\\www\\CsharpKam2\\myWebApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\UwAmp\\www\\CsharpKam - Copie\\myWebApp\\Views\\Product\\Index.cshtml",
+      "TargetPath": "Views\\Product\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\UwAmp\\www\\CsharpKam - Copie\\myWebApp\\Pages\\test.cshtml",
+      "TargetPath": "Pages\\test.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\UwAmp\\www\\CsharpKam - Copie\\myWebApp\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\UwAmp\\www\\CsharpKam - Copie\\myWebApp\\Views\\HelloWorld\\Index.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\UwAmp\\www\\CsharpKam - Copie\\myWebApp\\Views\\About\\Foo.cshtml",
+      "TargetPath": "Views\\About\\Foo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\UwAmp\\www\\CsharpKam - Copie\\myWebApp\\Views\\Product\\Product.cshtml",
+      "TargetPath": "Views\\Product\\Product.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\UwAmp\\www\\CsharpKam - Copie\\myWebApp\\Views\\About\\Index.cshtml",
+      "TargetPath": "Views\\About\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\UwAmp\\www\\CsharpKam - Copie\\myWebApp\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\UwAmp\\www\\CsharpKam - Copie\\myWebApp\\Views\\Product\\Privacy.cshtml",
+      "TargetPath": "Views\\Product\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\UwAmp\\www\\CsharpKam - Copie\\myWebApp\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\UwAmp\\www\\CsharpKam - Copie\\myWebApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }

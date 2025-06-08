@@ -4,7 +4,6 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-
 using System;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
@@ -55,14 +54,6 @@ namespace myWebApp
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
-                // endpoints.MapDefaultControllerRoute();
-                // endpoints.MapControllerRoute(
-                //     name: "default",
-                //     pattern: "{controller=Index}/{action=Index}/{id?}"
-                // );
-                // endpoints.MapControllerRoute("areaRoute", "{area:exists}/{controller=Home}/{action=Index}");
-                // endpoints.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}");
-                endpoints.MapControllerRoute(name: "areas", pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapControllerRoute(name: "default", pattern: "{controller=Home}/{action=Index}/{id?}");
 
             });

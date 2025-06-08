@@ -1,5 +1,64 @@
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\bin\Debug\net5.0\appsettings.json
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\bin\Debug\net5.0\myWebApp.exe
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\bin\Debug\net5.0\myWebApp.deps.json
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\bin\Debug\net5.0\myWebApp.runtimeconfig.json
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\bin\Debug\net5.0\myWebApp.runtimeconfig.dev.json
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\bin\Debug\net5.0\myWebApp.dll
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\bin\Debug\net5.0\ref\myWebApp.dll
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\bin\Debug\net5.0\myWebApp.pdb
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\bin\Debug\net5.0\myWebApp.Views.dll
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\bin\Debug\net5.0\myWebApp.Views.pdb
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\bin\Debug\net5.0\KameleoonClient.dll
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\bin\Debug\net5.0\Nancy.dll
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\myWebApp.csprojAssemblyReference.cache
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\myWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\myWebApp.AssemblyInfoInputs.cache
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\myWebApp.AssemblyInfo.cs
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\myWebApp.csproj.CoreCompileInputs.cache
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\myWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\myWebApp.RazorAssemblyInfo.cache
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\myWebApp.RazorAssemblyInfo.cs
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\staticwebassets\myWebApp.StaticWebAssets.Manifest.cache
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\staticwebassets\myWebApp.StaticWebAssets.xml
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\scopedcss\bundle\myWebApp.styles.css
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\myWebApp.TagHelpers.input.cache
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\myWebApp.TagHelpers.output.cache
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\myWebApp.RazorCoreGenerate.cache
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\Razor\Pages\test.cshtml.g.cs
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\Razor\Views\About\Foo.cshtml.g.cs
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\Razor\Views\Product\Privacy.cshtml.g.cs
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\Razor\Views\Product\Product.cshtml.g.cs
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\myWebApp.RazorTargetAssemblyInfo.cache
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\myWebApp.RazorTargetAssemblyInfo.cs
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\myWebApp.Views.pdb
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\myWebApp.csproj.CopyComplete
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\myWebApp.dll
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\ref\myWebApp.dll
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\myWebApp.pdb
+C:\UwAmp\www\CsharpKam - Copie\myWebApp\obj\Debug\net5.0\myWebApp.genruntimeconfig.cache
 C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\appsettings.Development.json
 C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\appsettings.json
+C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\DataKam\product.json
+C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\DataKam\test.json
 C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\myWebApp.exe
 C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\myWebApp.deps.json
 C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\myWebApp.runtimeconfig.json
@@ -9,6 +68,15 @@ C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\ref\myWebApp.dll
 C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\myWebApp.pdb
 C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\myWebApp.Views.dll
 C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\myWebApp.Views.pdb
+C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\KameleoonClient.dll
+C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\Nancy.dll
+C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
 C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\myWebApp.csprojAssemblyReference.cache
 C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\myWebApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\myWebApp.AssemblyInfoInputs.cache
@@ -23,42 +91,31 @@ C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\scopedcss\bundle\myWebApp.style
 C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\myWebApp.TagHelpers.input.cache
 C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\myWebApp.TagHelpers.output.cache
 C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\myWebApp.RazorCoreGenerate.cache
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\myWebApp.RazorTargetAssemblyInfo.cache
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\myWebApp.RazorTargetAssemblyInfo.cs
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\myWebApp.Views.pdb
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\myWebApp.dll
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\ref\myWebApp.dll
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\myWebApp.pdb
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\myWebApp.genruntimeconfig.cache
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\myWebApp.csproj.CopyComplete
-C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\KameleoonClient.dll
-C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
-C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
-C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
-C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\Nancy.dll
-C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Pages\test.cshtml.g.cs
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Views\About\Foo.cshtml.g.cs
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Views\Product\Product.cshtml.g.cs
 C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Areas\Formulaires\Views\Formulaires\Index.cshtml.g.cs
 C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Areas\Products\Views\Products\Index.cshtml.g.cs
 C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Areas\Products\Views\Products\Item.cshtml.g.cs
 C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Areas\Products\Views\Products\Privacy.cshtml.g.cs
 C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Areas\_ViewImports.cshtml.g.cs
-C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
-C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
-C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\DataKam\product.json
-C:\UwAmp\www\CsharpKam\myWebApp\bin\Debug\net5.0\DataKam\test.json
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Pages\test.cshtml.g.cs
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Views\About\Foo.cshtml.g.cs
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
 C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Views\Product\Privacy.cshtml.g.cs
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Views\Product\Product.cshtml.g.cs
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\myWebApp.RazorTargetAssemblyInfo.cache
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\myWebApp.RazorTargetAssemblyInfo.cs
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\myWebApp.Views.pdb
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\myWebApp.csproj.CopyComplete
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\myWebApp.dll
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\ref\myWebApp.dll
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\myWebApp.pdb
+C:\UwAmp\www\CsharpKam\myWebApp\obj\Debug\net5.0\myWebApp.genruntimeconfig.cache
